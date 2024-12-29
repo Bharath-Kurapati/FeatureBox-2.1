@@ -10,7 +10,7 @@ export default function UseCases() {
             Designed for Your Business
           </h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Whether you're a solopreneur or running a growing business, FutureBox AI adapts to your needs
+            Whether you're a solopreneur or running a growing business, FeatureBox AI adapts to your needs
           </p>
         </div>
 

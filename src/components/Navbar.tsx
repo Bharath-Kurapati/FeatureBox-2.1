@@ -85,7 +85,7 @@ export default function Navbar() {
           <div className="flex items-center justify-between">
             <a href="/" className="-m-1.5 p-1.5 flex items-center gap-2">
               <Bot className="h-8 w-8 text-indigo-600" />
-              <span className="font-semibold text-xl">FutureBox AI</span>
+              <span className="font-semibold text-xl">FeatureBox AI</span>
             </a>
             <button
               type="button"

@@ -3,13 +3,13 @@ import { Star } from 'lucide-react';
 
 const testimonials = [
   {
-    content: "FutureBox AI has completely transformed how we manage our sales funnel. Our lead response time is faster than ever, and we've seen a significant increase in conversions.",
+    content: "FeatureBox AI has completely transformed how we manage our sales funnel. Our lead response time is faster than ever, and we've seen a significant increase in conversions.",
     author: "Sarah L.",
     role: "Founder of GrowthHub",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
   },
   {
-    content: "As a solopreneur, FutureBox AI feels like having a full-time marketing team. It handles all my routine tasks while I focus on growing my business.",
+    content: "As a solopreneur, FeatureBox AI feels like having a full-time marketing team. It handles all my routine tasks while I focus on growing my business.",
     author: "Michael R.",
     role: "Digital Marketing Consultant",
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
