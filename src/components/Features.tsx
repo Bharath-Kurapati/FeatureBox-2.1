@@ -20,7 +20,7 @@ const features = [
   {
     icon: <BarChart3 className="h-6 w-6 text-indigo-600" />,
     title: "Daily Insights",
-    description: "Delivers analytics on inflow, outflow, and stock alerts to optimize operations.",
+    description: "Delivers insights on inflow, outflow, and stock alerts to optimize operations.",
   },
 ];
 
@@ -34,7 +34,7 @@ export default function Features() {
             Introducing the Inventory AI Agent
           </p>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Managing inventory doesn’t have to be tedious. Our AI-powered solution integrates seamlessly into Google Sheets to streamline your inventory tasks and bring expert-level management to your fingertips.
+            Managing inventory doesn’t have to be tedious. Our AI-powered solution integrates seamlessly into Google Sheets or your favorite tools to streamline your inventory tasks and bring expert-level management to your fingertips.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">

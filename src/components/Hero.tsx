@@ -12,14 +12,14 @@ export default function Hero() {
           </span>
         </div>
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-tight text-gray-900 sm:text-6xl lg:text-7xl">
-          SMBs to Solopreneurs
+          Small Businesses to Solopreneurs
         </h1>
         <h2 className="mx-auto max-w-4xl font-display text-4xl font-semibold tracking-tight text-indigo-600 sm:text-5xl lg:text-6xl mt-4">
           Automate Inventory, Operations & Sales with AI
         </h2>
         <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-600">
           FeatureBox AI is the ultimate AI-powered toolkit delivering
-          enterprise-grade efficiency and scalability at less than 1% of the
+          enterprise-grade efficiency and customization at less than 1% of the
           cost. Empower your business to work smarter, not harder.
         </p>
         <div className="mt-10 flex flex-col sm:flex-row justify-center gap-4 sm:gap-x-6">
