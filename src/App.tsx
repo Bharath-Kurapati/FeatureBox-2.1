@@ -3,7 +3,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Features from './components/Features';
 import UseCases from './components/UseCases';
-import Testimonials from './components/Testimonials';
+import DidYouKnow from './components/DidYouKnow';
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
         <Hero />
         <Features />
         <UseCases />
-        <Testimonials />
+        <DidYouKnow />
       </main>
       <footer className="bg-gray-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -21,9 +21,8 @@ function App() {
             <div className="col-span-1 md:col-span-2">
               <h3 className="text-lg font-semibold mb-4">FeatureBox AI</h3>
               <p className="text-gray-400 max-w-md">
-                Empowering businesses with intelligent automation solutions.
-                Build custom AI agents to streamline your sales and marketing
-                workflows.
+              FeatureBox AI is the ultimate AI-powered toolkit delivering enterprise-grade efficiency & customization at less than 1% of the cost. 
+              Empower your business to work smarter, not harder.
               </p>
             </div>
             <div className="col-span-2">
